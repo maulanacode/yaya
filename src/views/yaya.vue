@@ -142,9 +142,9 @@ export default {
 </script>
 
 <style scoped>
-@media (max-width: 576px) {
+/* @media (max-width: 576px) {
   .clock {
     margin-left: 50px !important;
   }
-}
+} */
 </style>
